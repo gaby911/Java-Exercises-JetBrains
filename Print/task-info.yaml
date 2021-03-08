@@ -1,0 +1,32 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    public class Main {
+
+        public static void print(String strArg) {
+            System.out.println("print(\"" + strArg + "\")");
+        }
+
+        // write your method here
+
+        /* Do not change code below */
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            String str = scanner.nextLine();
+            int val = scanner.nextInt();
+            print(str);
+            print(str, val);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2247
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2247">JetBrains
+    Academy</a></html>
+  time: Thu, 27 Aug 2020 10:38:27 UTC
+record: -1
