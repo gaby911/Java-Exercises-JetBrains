@@ -2,8 +2,18 @@ type: code
 files:
 - name: src/Main.java
   visible: true
-  text: // write your class here
+  text: |-
+    class Account {
+
+        private long balance;
+        private String ownerName;
+        private boolean locked;
+    }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2984
+feedback_link: https://hyperskill.org/learn/step/3023
 status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3023">JetBrains
+    Academy</a></html>
+  time: Wed, 23 Sep 2020 09:05:12 UTC
 record: -1
