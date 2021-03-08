@@ -7,7 +7,7 @@ files:
 
     public class Main {
 
-        public static int sign(int number) {
+        public static long power(int n, int m) {
             // write your code here
         }
 
@@ -15,10 +15,11 @@ files:
         public static void main(String[] args) {
             final Scanner scanner = new Scanner(System.in);
             final int n = scanner.nextInt();
-            System.out.println(sign(n));
+            final int m = scanner.nextInt();
+            System.out.println(power(n, m));
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/2730
+feedback_link: https://hyperskill.org/learn/step/2727
 status: Solved
 record: -1
