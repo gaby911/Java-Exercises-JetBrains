@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+- name: hyperskill-1930-test-03.txt
+  visible: true
+  learner_created: true
+- name: hyperskill-1930-test-10.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/1930
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/1930">JetBrains
+    Academy</a></html>
+  time: Thu, 30 Jul 2020 16:48:41 UTC
+record: -1
